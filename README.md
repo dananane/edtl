@@ -1,4 +1,4 @@
-# V2ray Edge（Beta）
+## V2ray Edge（Beta）
 
 > 由于 deno deploy 的限制，免费用户目前无法部署。
 > 貌似 Render 封号。
